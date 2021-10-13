@@ -3,4 +3,4 @@ C#とOpenCVSharpで画像処理
 
 詳しくは以下のサイトをご覧ください
 
-<https://chigusa-web.com/opencvsharp%e3%81%a7%e7%94%bb%e5%83%8f%e5%87%a6%e7%90%86/>
+<https://chigusa-web.com/blog/opencvsharp%E3%81%A7%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/>
